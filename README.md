@@ -5,6 +5,7 @@ Maybe an app at some point, for now just a way for me to track my goals
 [] State Space Control Guide
 [] USACO Training pages chapter one and two
 [] Code Every Day
+[] Kotlin Koans done by mid september
 ### Engineering
 [] Spectrum 3847 recommended reading
 [] Learn Onshape
